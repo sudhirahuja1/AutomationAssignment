@@ -1,0 +1,8 @@
+There are some improvements required to build a complete and stable famework:
+
+- Use of Page Object Model in this framework.
+- Exception Handling
+- Use of Explicit Wait
+- Common/helpers folder should have all the generic functionalities like database connectivity, excel functionalities, login, tear down.
+- Reporting and logging needs improvement.
+- Scheduling the test scripts.
