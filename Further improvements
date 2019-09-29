@@ -1,8 +1,10 @@
 There are some improvements required to build a complete and stable famework:
 
-- Use of Page Object Model in this framework.
+- Use of Page Object Model in this framework. All locators and methods can be saved in POM classes, independent of test scripts.
 - Exception Handling
 - Use of Explicit Wait
 - Common/helpers folder should have all the generic functionalities like database connectivity, excel functionalities, login, tear down.
 - Reporting and logging needs improvement.
 - Scheduling the test scripts.
+- Documentation
+- Code Reusability
